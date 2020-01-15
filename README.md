@@ -2,6 +2,18 @@
 ##  Information Security and Quality Assurance Projects 
 ### Built a full stack JavaScript app that is functionally similar to reddit
 
+### Technologies used in this project:
+- HTML
+- CSS/SASS
+- JavaScript
+- Bootstrap
+- React
+- MongoDB
+- NodeJs
+- Express
+- HelmetJs
+- Mocha / Chai
+
 #### User Stories
 1. Only allow your site to be loading in an iFrame on your own pages.
 2. Do not allow DNS prefetching.
