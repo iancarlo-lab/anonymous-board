@@ -11,10 +11,11 @@
 
 ### Technologies used in this project:
 - HTML
-- CSS/SASS
+- CSS
 - JavaScript
 - Bootstrap
 - React
+- BCrypt JS
 - MongoDB
 - NodeJs
 - Express
